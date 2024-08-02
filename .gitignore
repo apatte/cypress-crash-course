@@ -1,0 +1,10 @@
+#Ignore node modules
+node_modules/
+
+#Ignore Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+test-results/
+**/tests-results.xml
+**/cypress/screenshots

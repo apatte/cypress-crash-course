@@ -1,4 +1,4 @@
-let username = "stareast_user";
+let username = "lambdaTester";
 let password = "Tester01";
 
 describe("User Login Flow", () => {
